@@ -17,7 +17,7 @@ title: YG First Website
 email: hikariakio@gmail.com
 description: "Super High Speed Websites with all the things you want. and what more. Please vist the website"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://hikariakio.github.io/jekyllwebsite/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
